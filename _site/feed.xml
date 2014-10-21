@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Privacy Brief</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Your privacy in a surveillance society
 </description>
-    <link>https://h5hive.github.io/privacybrief/privacybrief/</link>
-    <atom:link href="https://h5hive.github.io/privacybrief/privacybrief/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 21 Oct 2014 22:54:15 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Oct 2014 22:54:15 +0000</lastBuildDate>
+    <link>https://privacybrief.github.io/</link>
+    <atom:link href="https://privacybrief.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 21 Oct 2014 23:19:10 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Oct 2014 23:19:10 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Sat, 20 Sep 2014 22:02:30 +0000</pubDate>
-        <link>https://h5hive.github.io/privacybrief/privacybrief/jekyll/update/2014/09/20/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">https://h5hive.github.io/privacybrief/privacybrief/jekyll/update/2014/09/20/welcome-to-jekyll.html</guid>
+        <link>https://privacybrief.github.io/jekyll/update/2014/09/20/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://privacybrief.github.io/jekyll/update/2014/09/20/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
