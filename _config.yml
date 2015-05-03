@@ -1,6 +1,6 @@
 # Site settings
 title: Privacy Brief
-email: privacybrief@users.noreply.github.com
+email: privacybrief@protonmail.ch
 description: > # this means to ignore newlines until "baseurl:"
   Your privacy in a surveillance society
 baseurl: "" # the subpath of your site, e.g. /blog/
