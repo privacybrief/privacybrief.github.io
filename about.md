@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Privacy Brief
+title: About 
 permalink: /about/
 ---
 
